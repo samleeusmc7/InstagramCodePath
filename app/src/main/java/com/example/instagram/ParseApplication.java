@@ -17,8 +17,8 @@ public class ParseApplication extends Application {
         // clientKey is not needed unless explicitly configured
         // any network interceptors must be added with the Configuration Builder given this syntax
         Parse.initialize(new Parse.Configuration.Builder(this)
-                .applicationId("hannah-instgram-codepath") // should correspond to APP_ID env variable
-                .clientKey("CodepathInstgramSlide")  // set explicitly unless clientKey is explicitly configured on Parse server
-                .server("http://hannah-instgram-codepath.herokuapp.com/parse").build());
+                .applicationId("alex-instagram-codepath") // should correspond to APP_ID env variable
+                .clientKey("CodepathInstagramMoveFast")  // set explicitly unless clientKey is explicitly configured on Parse server
+                .server("http://alex-instagram-codepath.herokuapp.com/parse").build());
     }
 }
