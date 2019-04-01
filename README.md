@@ -1,4 +1,4 @@
-# Unit 5 - *InstagramCodepath*
+# Unit 6 - *InstagramCodepath*
 
 **InstagramCodepath** is a photo sharing app similar to Instagram but using Parse as its backend.
 
