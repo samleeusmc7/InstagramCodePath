@@ -2,7 +2,7 @@
 
 **InstagramCodepath** is a photo sharing app similar to Instagram but using Parse as its backend.
 
-Time spent: **12** hours spent in total
+Time spent: **** hours spent in total
 
 ## User Stories
 
@@ -30,7 +30,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/Hzergaw/HannaInstagramCodepath/blob/master/Inst.walkthrough.pt1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
